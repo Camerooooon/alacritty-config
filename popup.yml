@@ -1,0 +1,8 @@
+import:
+  - /home/cameron/.config/alacritty/alacritty.yml
+
+window:
+  opacity: 0.98
+  dimensions:
+    columns: 150
+    lines: 40
